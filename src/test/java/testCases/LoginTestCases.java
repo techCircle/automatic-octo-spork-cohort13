@@ -47,7 +47,7 @@ public class LoginTestCases extends CommonMethods {
 //			
 		Assert.assertTrue(ap.recordsTable.size()==1);
 	
-		
+		System.out.println("hello world");
 	}
 
 

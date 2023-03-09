@@ -34,6 +34,7 @@ public class testing1Practice {
 	@BeforeClass
 	public void beforeClass() {
 		System.out.println("beforeClass");
+		System.out.println("testing");
 	}
 
 	@AfterClass
